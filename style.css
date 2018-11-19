@@ -1,0 +1,24 @@
+/*Header*/
+header {
+    height: 400px;
+    width: 100%;
+    background-image: url("cat.jpeg");
+    background-size: cover;
+    
+    /*Center everything*/
+    text-align: center;
+}
+
+header h1{
+    font-size: 80px;
+    color: #ff0000;
+    padding: 40px;
+}
+
+header p{
+    font-style: italic;
+    margin: 40px;
+    color: #fff;
+    font-family: cursive;
+    font-weight: bold;
+}
